@@ -1,0 +1,7 @@
+.container {
+  background: url(image.jpg);
+  border-image: fill 0 / auto linear-gradient(#0001, #000);
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
